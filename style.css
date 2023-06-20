@@ -198,7 +198,7 @@ section .title::after{
 }
 .home .home-content a{
     display: inline-block;
-    background: crimson;
+    background: light pink;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
@@ -209,7 +209,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: crimson;
+    color: light blue;
     background: none;
 }
 
